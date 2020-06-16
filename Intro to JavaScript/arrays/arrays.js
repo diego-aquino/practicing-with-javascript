@@ -1,3 +1,6 @@
+// .push() - add element at the end of an array
+// .unshift() - add element at the beginning of an array
+
 function printElements(array) {
     for (let i = 0; i < array.length; i++) {
         console.log(array[i]);
